@@ -1,15 +1,7 @@
 @import 'https://fonts.googleapis.com/css?family=Lobster|Quicksand|Cutive+Mono';
 
-body {
-  width: 600px;
-  margin: 0 auto;
-  font-size: 18px;
-  font-weight: 400;
-  font-family: 'Quicksand', sans-serif;
-}
-
 @media(max-width: 600px) {
-  body {
+  .main {
     width: 100%;
     box-sizing: border-box;
     padding: 0 20px;
@@ -35,7 +27,7 @@ p {
 }
 
 section#header {
-  margin: 40px 0;
+  padding: 40px 0;
 }
 
 section#header h1 {
@@ -97,10 +89,6 @@ section#paginator #next {
   float: right;
 }
 
-#post {
-  margin: 0 0 100px 0;
-}
-
 .videoWrapper {
   position: relative;
   padding-bottom: 56.25%; /* 16:9 */
@@ -115,3 +103,48 @@ section#paginator #next {
   width: 100%;
   height: 100%;
 }
+
+.comments{
+    padding: 20px 0px 20px 0px;
+}
+
+.fbshare{
+    padding-top: 10px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+} 
+
+
+.main {
+  position:relative;
+  width: 600px;
+  margin: 0 auto;
+  font-size: 18px;
+  font-weight: 400;
+  font-family: 'Quicksand', sans-serif;
+}
+
+html, body {
+  height: 100%;
+}
+
+.footer {
+    font-size: 12px;
+    position: relative;
+    margin-top: -20px; /* negative value of footer height */
+    height: 20px;
+    width:100%;
+    clear: both;
+    text-align: center;
+    padding: 10px 0px 10px 0px;
+}
+
+@font-face {
+    font-family: aladini;
+    src: url('/fonts/aladini.ttf');
+}
+
+.ka { font-family: aladini; }

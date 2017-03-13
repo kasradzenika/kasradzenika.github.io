@@ -1,39 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>რაღაცნაირი</title>
+    <title>ეს</title>
     <link>https://podcast.ge/index.xml</link>
-    <description>Recent content on რაღაცნაირი</description>
+    <description>Recent content on ეს</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ka-GE</language>
-    <lastBuildDate>Sun, 05 Mar 2017 01:07:40 +0400</lastBuildDate>
+    <lastBuildDate>Tue, 14 Mar 2017 02:10:40 +0400</lastBuildDate>
     <atom:link href="https://podcast.ge/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Chilly Sh*t</title>
-      <link>https://podcast.ge/posts/chillyshit/</link>
-      <pubDate>Sun, 05 Mar 2017 01:07:40 +0400</pubDate>
+      <title>es 1 - post red audio</title>
+      <link>https://podcast.ge/posts/Ep1_Post_Red_Audio/</link>
+      <pubDate>Tue, 14 Mar 2017 02:10:40 +0400</pubDate>
       
-      <guid>https://podcast.ge/posts/chillyshit/</guid>
-      <description>&lt;p&gt;
-    &lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/166784861&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&#34;&gt;&lt;/iframe&gt;
-    
-    ლოგანის აეროპორტში ფრენებს შორის გამიქსული მუსიკა :))
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Khrik</title>
-      <link>https://podcast.ge/posts/khrik/</link>
-      <pubDate>Wed, 01 Mar 2017 01:07:40 +0400</pubDate>
-      
-      <guid>https://podcast.ge/posts/khrik/</guid>
-      <description>&lt;p&gt;
-    &lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/182391380&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&#34;&gt;&lt;/iframe&gt;
-    
-    HackTBILISI ჰაკათონისთვის შექმნილი თამაშის საუნდტრეკი
-&lt;/p&gt;
-</description>
+      <guid>https://podcast.ge/posts/Ep1_Post_Red_Audio/</guid>
+      <description>&lt;div&gt;
+    &lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/312223967&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&#34;&gt;&lt;/iframe&gt;
+    &lt;br/&gt;
+    &lt;br/&gt;
+    სულ მაინტერესებდა აუდიოსთან მუშაობა. რამდენი ხანია პოდკასტის დაწყებაზე ვფიქრობ. აუდიოსთან გამოუცდელ &#39;მე&#39;-ს მოუვიდა მშვენიერი აზრი მისულიყო თავის მეგობარ აუდიო ინჟინერთან ვინც დააკვალიანებდა აუდიოს დამუშავებასა და პოდკასტის თავისებურებებში. მერე უკეთესი იდეა მოუვიდა &#39;მე&#39;-ს - პირველივე ეპიზოდს ჩაწერდა აუდიო ინჟინერთან. ასე დაიწყო ეს პოდკასტი.&lt;br/&gt;
+    &lt;br/&gt;
+        
+    &lt;br/&gt;
+    გამოყენებული მუსიკა:&lt;br/&gt;
+    &lt;br/&gt;
+    &lt;a href=&#34;https://soundcloud.com/snowdrop_jpn/not-just-jazz&#34;&gt;SNOWDROP - Not Just Jazz&lt;/a&gt;&lt;br/&gt;
+    &lt;br/&gt;
+    &lt;a href=&#34;https://soundcloud.com/djm1lkyway/smooth-jazz-hip-hop&#34;&gt;DJ Milky Way - Smooth Jazz Hip-Hop&lt;/a&gt;&lt;br/&gt;
+    &lt;br/&gt;
+    &lt;a href=&#34;https://soundcloud.com/bmsharp/long-sit&#34;&gt;Ben Sharp - Long Sit&lt;/a&gt;&lt;br/&gt;
+    &lt;br/&gt;
+&lt;/div&gt;</description>
     </item>
     
   </channel>

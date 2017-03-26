@@ -2,19 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://podcast.ge/posts/Ep2_VRex_Immersive_Inc/</loc>
+    <lastmod>2017-03-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://podcast.ge/posts/Ep1_Post_Red_Audio/</loc>
     <lastmod>2017-03-14T02:10:40+04:00</lastmod>
   </url>
   
   <url>
     <loc>https://podcast.ge/posts/</loc>
-    <lastmod>2017-03-14T02:10:40+04:00</lastmod>
+    <lastmod>2017-03-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://podcast.ge/</loc>
-    <lastmod>2017-03-14T02:10:40+04:00</lastmod>
+    <lastmod>2017-03-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
